@@ -17,5 +17,5 @@
 ### I'm hatred
 - Software developer
 - Studying computer science at UM
-- Creating and random and cool things
+- Creating random and cool things
 - Contact me at **me@hatred.dev**

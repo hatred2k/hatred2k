@@ -16,6 +16,6 @@
 
 ### I'm hatred
 - Software developer
-- Studying computer science at UM
+- Studying computer science at Ole Miss
 - Creating random and cool things
-- Contact me at **me@hatred.dev**
+- Contact me at **me@austinjohnson.tech**

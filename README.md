@@ -1,10 +1,9 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop random projects.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Mississippi in Oxford.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can contact me at **me@austinjohnson.tech**\
 📄 &nbsp;You can also check out my [Website](https://austinjohnson.tech/) for more details about me.
 

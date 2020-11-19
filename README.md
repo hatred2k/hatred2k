@@ -2,10 +2,10 @@
 
 ### 💻 &nbsp;About
 
-💡 &nbsp;I like to explore new technologies and develop random projects.\
+💡 &nbsp;I like to explore new technologies and create random projects.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Mississippi in Oxford.\
-✉️ &nbsp;You can contact me at **me@austinjohnson.tech**\
-📄 &nbsp;You can also check out my [Website](https://austinjohnson.tech/) for more details about me.
+✉️ &nbsp;You can contact me at **me@austinjohnson.xyz**\
+📄 &nbsp;You can also check out my [Website](https://austinjohnson.xyz/) for more details about me.
 
 ### 🛠 &nbsp;Skills
 
@@ -21,8 +21,8 @@
 
 ### 🤝🏻 &nbsp;Social
 
-<a href="https://austinjohnson.tech/"><img src="https://img.shields.io/badge/-austinjohnson.tech-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:me@austinjohnson.tech"><img src="https://img.shields.io/badge/-me@austinjohnson.tech-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://austinjohnson.xyz/"><img src="https://img.shields.io/badge/-austinjohnson.xyz-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:me@austinjohnson.xyz"><img src="https://img.shields.io/badge/-me@austinjohnson.xyz-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/aust1n_johnson"><img src="https://img.shields.io/badge/-@aust1n_johnson-E4405F?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://github.com/hatred2k"><img src="https://img.shields.io/badge/-@hatred2k-1877F2?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>

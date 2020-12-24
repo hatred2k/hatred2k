@@ -16,7 +16,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)&nbsp;
-![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
 
 ### 🤝🏻 &nbsp;Social

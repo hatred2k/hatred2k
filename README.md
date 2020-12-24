@@ -21,8 +21,8 @@
 
 ### 🤝🏻 &nbsp;Social
 
-<a href="https://austinjohnson.xyz/"><img src="https://img.shields.io/badge/-austinjohnson.xyz-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:me@austinjohnson.xyz"><img src="https://img.shields.io/badge/-me@austinjohnson.xyz-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/aust1n_johnson"><img src="https://img.shields.io/badge/-@aust1n_johnson-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="https://github.com/hatred2k"><img src="https://img.shields.io/badge/-@hatred2k-211F1F?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://austinjohnson.xyz/"><img src="https://img.shields.io/badge/-website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://twitter.com/aust1n_johnson"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:me@austinjohnson.xyz"><img src="https://img.shields.io/badge/-email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/hatred2k"><img src="https://img.shields.io/badge/-github-211F1F?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </p>

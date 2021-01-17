@@ -13,7 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=for-the-badge&logo=c-sharp)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)&nbsp;
